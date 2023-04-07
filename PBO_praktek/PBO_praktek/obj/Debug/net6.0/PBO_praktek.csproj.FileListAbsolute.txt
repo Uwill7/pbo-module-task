@@ -1,0 +1,5 @@
+C:\Tugas Kuliah\pbo\PBO_praktek\PBO_praktek\obj\Debug\net6.0\PBO_praktek.csproj.AssemblyReference.cache
+C:\Tugas Kuliah\pbo\PBO_praktek\PBO_praktek\obj\Debug\net6.0\PBO_praktek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tugas Kuliah\pbo\PBO_praktek\PBO_praktek\obj\Debug\net6.0\PBO_praktek.AssemblyInfoInputs.cache
+C:\Tugas Kuliah\pbo\PBO_praktek\PBO_praktek\obj\Debug\net6.0\PBO_praktek.AssemblyInfo.cs
+C:\Tugas Kuliah\pbo\PBO_praktek\PBO_praktek\obj\Debug\net6.0\PBO_praktek.csproj.CoreCompileInputs.cache
